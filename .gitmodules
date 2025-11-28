@@ -1,3 +1,6 @@
 [submodule "0_SpringBoot_QuickStart"]
 	path = 0_SpringBoot_QuickStart
 	url = https://github.com/tituslhy/0_SpringBoot_QuickStart.git
+[submodule "1_Spring_Core"]
+	path = 1_Spring_Core
+	url = https://github.com/tituslhy/1_Spring_Core.git
