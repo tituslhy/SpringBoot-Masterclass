@@ -7,3 +7,6 @@
 [submodule "2_Hibernate_JPA"]
 	path = 2_Hibernate_JPA
 	url = https://github.com/tituslhy/2_Hibernate_JPA.git
+[submodule "3_Spring_CRUD"]
+	path = 3_Spring_CRUD
+	url = https://github.com/tituslhy/3_Spring_CRUD.git
