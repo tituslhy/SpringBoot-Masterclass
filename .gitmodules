@@ -10,3 +10,6 @@
 [submodule "3_Spring_CRUD"]
 	path = 3_Spring_CRUD
 	url = https://github.com/tituslhy/3_Spring_CRUD.git
+[submodule "4_Spring_Hibernate_CRUD"]
+	path = 4_Spring_Hibernate_CRUD
+	url = https://github.com/tituslhy/4_Spring_Hibernate_CRUD.git
