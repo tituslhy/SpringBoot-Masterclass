@@ -16,3 +16,6 @@
 [submodule "5_Spring_Data_JPA_CRUD"]
 	path = 5_Spring_Data_JPA_CRUD
 	url = https://github.com/tituslhy/5_Spring_Data_JPA_CRUD.git
+[submodule "6_Springboot_RESTAPI"]
+	path = 6_Springboot_RESTAPI
+	url = https://github.com/tituslhy/6_Springboot_RESTAPI.git
