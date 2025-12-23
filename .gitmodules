@@ -19,3 +19,6 @@
 [submodule "6_Springboot_RESTAPI"]
 	path = 6_Springboot_RESTAPI
 	url = https://github.com/tituslhy/6_Springboot_RESTAPI.git
+[submodule "7_SpringBoot_Security"]
+	path = 7_SpringBoot_Security
+	url = https://github.com/tituslhy/7_SpringBoot_Security.git
