@@ -22,3 +22,6 @@
 [submodule "7_SpringBoot_Security"]
 	path = 7_SpringBoot_Security
 	url = https://github.com/tituslhy/7_SpringBoot_Security.git
+[submodule "8_Advanced_Hibernate"]
+	path = 8_Advanced_Hibernate
+	url = https://github.com/tituslhy/8_Advanced_Hibernate.git
