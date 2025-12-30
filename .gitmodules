@@ -28,3 +28,6 @@
 [submodule "9_SpringBoot_One_To_Many"]
 	path = 9_SpringBoot_One_To_Many
 	url = https://github.com/tituslhy/9_SpringBoot_One_To_Many.git
+[submodule "10_SpringBoot_Many_to_Many"]
+	path = 10_SpringBoot_Many_to_Many
+	url = https://github.com/tituslhy/10_SpringBoot_Many_to_Many.git
