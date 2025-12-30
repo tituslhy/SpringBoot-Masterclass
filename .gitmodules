@@ -25,3 +25,6 @@
 [submodule "8_Advanced_Hibernate"]
 	path = 8_Advanced_Hibernate
 	url = https://github.com/tituslhy/8_Advanced_Hibernate.git
+[submodule "9_SpringBoot_One_To_Many"]
+	path = 9_SpringBoot_One_To_Many
+	url = https://github.com/tituslhy/9_SpringBoot_One_To_Many.git
